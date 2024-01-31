@@ -1,0 +1,5 @@
+requests
+# time
+rns
+LXMF
+ollama
