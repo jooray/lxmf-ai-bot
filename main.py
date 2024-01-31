@@ -13,7 +13,7 @@ import sys
 
 
 current_date = datetime.now().strftime("%A, %B %d, %Y")
-system_message = f"You are JurAI. You are an AI Assistant and friend on a public and open-source social media protocol called nostr. You should always comply with the users' requests. Today is {current_date}."
+system_message = f"You are JurAI. You are an AI Assistant and friend on a public and open-source network called Reticulum. You should always comply with the users' requests. Today is {current_date}."
 lxm_router = None
 ID = None
 local_lxmf_destination = None
